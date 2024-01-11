@@ -1,0 +1,40 @@
+{
+  "players": [
+    {
+      "name": "LeBron James",
+      "number": 23
+    },
+    {
+      "name": "Stephen Curry",
+      "number": 30
+    },
+    {
+      "name": "Kevin Durant",
+      "number": 35
+    },
+    {
+      "name": "James Harden",
+      "number": 13
+    },
+    {
+      "name": "Anthony Davis",
+      "number": 3
+    },
+    {
+      "name": "Joel Embiid",
+      "number": 24
+    },
+    {
+      "name": "Nikola Jokic",
+      "number": 15
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "number": 34
+    },
+    {
+      "name": "Luka Doncic",
+      "number": 77
+    }
+  ]
+}
